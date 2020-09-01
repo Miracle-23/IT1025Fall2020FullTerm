@@ -6,11 +6,7 @@ Type your executive summary as if you were explaining your lab on an IT team
 
 * Take the example of ATM that we use everyday. Explain or identify what is the hardware, software, data, people and process in the system you identified with respect to the ATM.
 
-Hardware -
-Software - 
-Data - 
-People - 
-Process - 
+Hardware: The card chips and the bar reader.
 
 # Github
 
